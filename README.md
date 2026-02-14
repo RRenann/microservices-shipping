@@ -110,8 +110,3 @@ Docker Compose
 
 OpenAPI / Swagger (springdoc)
 
-📁 Estrutura do Projeto
-/service-a
-/service-b
-compose.yaml
-README.md
